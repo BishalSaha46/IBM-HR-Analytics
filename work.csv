@@ -1,0 +1,1471 @@
+EmployeeNumber,Department,OverTime,StandardHours,DistanceFromHome
+1,Sales,Yes,80,1
+2,Research & Development,No,80,8
+4,Research & Development,Yes,80,2
+5,Research & Development,Yes,80,3
+7,Research & Development,No,80,2
+8,Research & Development,No,80,2
+10,Research & Development,Yes,80,3
+11,Research & Development,No,80,24
+12,Research & Development,No,80,23
+13,Research & Development,No,80,27
+14,Research & Development,No,80,16
+15,Research & Development,Yes,80,15
+16,Research & Development,No,80,26
+18,Research & Development,No,80,19
+19,Research & Development,Yes,80,24
+20,Research & Development,No,80,21
+21,Research & Development,Yes,80,5
+22,Research & Development,Yes,80,16
+23,Sales,No,80,2
+24,Research & Development,Yes,80,2
+26,Research & Development,No,80,11
+27,Sales,No,80,9
+28,Research & Development,No,80,7
+30,Research & Development,No,80,15
+31,Research & Development,No,80,6
+32,Research & Development,No,80,5
+33,Research & Development,Yes,80,16
+35,Sales,No,80,8
+36,Research & Development,No,80,7
+38,Sales,No,80,2
+39,Research & Development,No,80,2
+40,Research & Development,Yes,80,10
+41,Research & Development,No,80,9
+42,Sales,No,80,5
+45,Research & Development,Yes,80,1
+46,Research & Development,No,80,2
+47,Sales,Yes,80,3
+49,Sales,No,80,2
+51,Research & Development,Yes,80,5
+52,Sales,No,80,1
+53,Research & Development,No,80,4
+54,Research & Development,No,80,2
+55,Research & Development,No,80,25
+56,Sales,No,80,8
+57,Research & Development,No,80,1
+58,Research & Development,No,80,12
+60,Sales,No,80,23
+61,Research & Development,No,80,19
+62,Sales,Yes,80,5
+63,Research & Development,No,80,8
+64,Research & Development,Yes,80,1
+65,Research & Development,Yes,80,5
+68,Sales,Yes,80,1
+70,Research & Development,Yes,80,11
+72,Sales,Yes,80,23
+73,Research & Development,Yes,80,1
+74,Sales,No,80,18
+75,Research & Development,Yes,80,23
+76,Research & Development,No,80,7
+77,Research & Development,No,80,1
+78,Research & Development,Yes,80,1
+79,Research & Development,No,80,29
+80,Research & Development,Yes,80,7
+81,Sales,No,80,25
+83,Research & Development,No,80,8
+84,Research & Development,Yes,80,8
+85,Research & Development,No,80,11
+86,Research & Development,No,80,7
+88,Research & Development,No,80,1
+90,Research & Development,Yes,80,9
+91,Sales,No,80,1
+94,Research & Development,No,80,2
+95,Research & Development,No,80,1
+96,Research & Development,No,80,1
+97,Research & Development,No,80,6
+98,Research & Development,No,80,8
+100,Sales,No,80,1
+101,Research & Development,Yes,80,6
+102,Research & Development,No,80,7
+103,Human Resources,Yes,80,5
+104,Research & Development,Yes,80,1
+105,Research & Development,No,80,1
+106,Sales,No,80,1
+107,Research & Development,Yes,80,6
+110,Research & Development,No,80,1
+112,Research & Development,No,80,7
+113,Sales,No,80,2
+116,Research & Development,No,80,9
+117,Research & Development,No,80,2
+118,Sales,No,80,9
+119,Research & Development,No,80,1
+120,Sales,Yes,80,21
+121,Sales,Yes,80,4
+124,Research & Development,Yes,80,1
+125,Sales,No,80,6
+126,Research & Development,No,80,2
+128,Sales,No,80,3
+129,Sales,No,80,4
+131,Sales,No,80,10
+132,Research & Development,No,80,23
+133,Human Resources,Yes,80,6
+134,Research & Development,No,80,1
+137,Research & Development,Yes,80,6
+138,Research & Development,No,80,6
+139,Research & Development,No,80,2
+140,Human Resources,No,80,2
+141,Research & Development,Yes,80,1
+142,Sales,Yes,80,5
+143,Research & Development,No,80,7
+144,Research & Development,No,80,15
+145,Research & Development,No,80,1
+147,Research & Development,Yes,80,7
+148,Human Resources,Yes,80,26
+150,Research & Development,No,80,18
+151,Research & Development,No,80,6
+152,Sales,No,80,3
+153,Research & Development,No,80,5
+154,Sales,No,80,11
+155,Research & Development,No,80,3
+158,Sales,Yes,80,26
+159,Research & Development,No,80,23
+160,Sales,No,80,22
+161,Research & Development,Yes,80,14
+162,Research & Development,No,80,6
+163,Sales,Yes,80,6
+164,Research & Development,No,80,6
+165,Research & Development,No,80,23
+167,Sales,Yes,80,22
+169,Research & Development,No,80,2
+170,Research & Development,No,80,20
+171,Research & Development,No,80,28
+174,Sales,No,80,12
+175,Sales,Yes,80,20
+176,Sales,Yes,80,9
+177,Human Resources,No,80,25
+178,Research & Development,No,80,6
+179,Research & Development,No,80,8
+182,Sales,No,80,4
+183,Sales,No,80,28
+184,Human Resources,Yes,80,9
+190,Research & Development,No,80,9
+192,Research & Development,No,80,29
+193,Research & Development,Yes,80,3
+194,Research & Development,No,80,18
+195,Sales,No,80,9
+197,Research & Development,No,80,5
+198,Research & Development,No,80,2
+199,Research & Development,No,80,10
+200,Research & Development,No,80,9
+201,Research & Development,No,80,3
+202,Research & Development,No,80,26
+204,Sales,No,80,1
+205,Sales,Yes,80,6
+206,Research & Development,No,80,9
+207,Sales,No,80,8
+208,Research & Development,No,80,1
+211,Research & Development,No,80,7
+214,Research & Development,Yes,80,9
+215,Sales,No,80,4
+216,Sales,No,80,2
+217,Research & Development,No,80,19
+218,Research & Development,No,80,9
+221,Research & Development,No,80,21
+223,Research & Development,Yes,80,24
+224,Research & Development,Yes,80,3
+226,Research & Development,No,80,11
+227,Research & Development,No,80,14
+228,Sales,No,80,5
+230,Sales,No,80,1
+231,Research & Development,No,80,6
+233,Research & Development,Yes,80,17
+235,Sales,No,80,1
+238,Research & Development,No,80,3
+239,Research & Development,No,80,9
+240,Sales,Yes,80,4
+241,Research & Development,Yes,80,8
+242,Research & Development,No,80,2
+243,Research & Development,No,80,2
+244,Sales,No,80,1
+245,Research & Development,No,80,9
+246,Research & Development,Yes,80,12
+247,Research & Development,No,80,27
+248,Sales,Yes,80,20
+249,Research & Development,No,80,1
+250,Research & Development,No,80,13
+252,Research & Development,No,80,14
+253,Research & Development,No,80,4
+254,Research & Development,No,80,14
+256,Research & Development,No,80,2
+258,Research & Development,No,80,3
+259,Research & Development,No,80,1
+260,Research & Development,No,80,9
+261,Research & Development,Yes,80,23
+262,Research & Development,No,80,7
+264,Research & Development,No,80,2
+267,Research & Development,Yes,80,21
+269,Research & Development,No,80,2
+270,Research & Development,No,80,21
+271,Research & Development,No,80,2
+273,Research & Development,No,80,29
+274,Research & Development,No,80,1
+275,Research & Development,Yes,80,18
+277,Research & Development,Yes,80,10
+281,Research & Development,Yes,80,19
+282,Research & Development,Yes,80,29
+283,Sales,No,80,27
+284,Research & Development,Yes,80,5
+286,Research & Development,No,80,18
+287,Research & Development,No,80,9
+288,Research & Development,No,80,1
+291,Sales,No,80,4
+292,Research & Development,No,80,1
+293,Sales,No,80,20
+296,Research & Development,No,80,8
+297,Research & Development,Yes,80,3
+298,Sales,Yes,80,6
+299,Sales,No,80,26
+300,Research & Development,No,80,1
+302,Sales,No,80,6
+303,Sales,No,80,3
+304,Research & Development,No,80,5
+305,Research & Development,No,80,4
+306,Research & Development,Yes,80,11
+307,Sales,No,80,3
+308,Research & Development,No,80,1
+309,Research & Development,No,80,3
+311,Sales,No,80,4
+312,Sales,No,80,1
+314,Sales,No,80,1
+315,Research & Development,Yes,80,18
+316,Research & Development,No,80,2
+319,Research & Development,No,80,4
+321,Human Resources,No,80,6
+323,Sales,No,80,1
+325,Research & Development,Yes,80,14
+327,Sales,Yes,80,16
+328,Research & Development,No,80,2
+329,Sales,Yes,80,2
+330,Sales,No,80,4
+331,Research & Development,Yes,80,1
+332,Research & Development,No,80,1
+333,Sales,No,80,26
+334,Research & Development,No,80,19
+335,Research & Development,No,80,24
+336,Research & Development,No,80,1
+337,Research & Development,No,80,3
+338,Research & Development,No,80,5
+339,Research & Development,No,80,2
+340,Research & Development,No,80,1
+341,Research & Development,No,80,7
+342,Research & Development,No,80,10
+343,Research & Development,No,80,2
+346,Research & Development,No,80,15
+347,Research & Development,Yes,80,17
+349,Sales,No,80,20
+350,Research & Development,No,80,1
+351,Research & Development,Yes,80,2
+352,Research & Development,No,80,2
+353,Research & Development,No,80,1
+355,Research & Development,No,80,29
+359,Research & Development,No,80,7
+361,Sales,No,80,2
+362,Research & Development,No,80,2
+363,Sales,Yes,80,2
+364,Research & Development,No,80,2
+366,Sales,No,80,2
+367,Research & Development,No,80,23
+369,Research & Development,No,80,5
+372,Research & Development,Yes,80,20
+373,Research & Development,No,80,6
+374,Research & Development,Yes,80,1
+376,Research & Development,Yes,80,29
+377,Research & Development,No,80,9
+378,Sales,No,80,6
+379,Research & Development,No,80,3
+380,Research & Development,Yes,80,1
+381,Research & Development,No,80,22
+382,Sales,Yes,80,7
+384,Research & Development,No,80,1
+385,Research & Development,No,80,4
+386,Research & Development,Yes,80,3
+387,Sales,No,80,1
+388,Sales,No,80,2
+389,Research & Development,Yes,80,20
+390,Research & Development,Yes,80,11
+391,Research & Development,No,80,1
+392,Research & Development,Yes,80,24
+393,Research & Development,No,80,23
+394,Research & Development,Yes,80,16
+395,Research & Development,No,80,8
+396,Research & Development,Yes,80,10
+397,Research & Development,No,80,3
+399,Sales,No,80,5
+401,Sales,Yes,80,4
+403,Research & Development,Yes,80,9
+404,Sales,No,80,26
+405,Research & Development,No,80,3
+406,Sales,No,80,16
+407,Research & Development,No,80,18
+408,Research & Development,No,80,2
+410,Sales,No,80,2
+411,Sales,No,80,10
+412,Research & Development,No,80,16
+416,Sales,No,80,7
+417,Research & Development,No,80,1
+419,Research & Development,No,80,24
+420,Sales,No,80,7
+421,Research & Development,No,80,25
+422,Research & Development,Yes,80,1
+423,Research & Development,Yes,80,5
+424,Human Resources,No,80,2
+425,Research & Development,No,80,7
+426,Research & Development,Yes,80,2
+428,Research & Development,No,80,5
+429,Research & Development,Yes,80,10
+430,Research & Development,No,80,10
+431,Research & Development,Yes,80,1
+433,Research & Development,No,80,8
+434,Research & Development,Yes,80,5
+436,Sales,Yes,80,8
+437,Sales,Yes,80,2
+438,Sales,No,80,7
+439,Research & Development,No,80,2
+440,Research & Development,Yes,80,2
+441,Research & Development,No,80,28
+442,Research & Development,No,80,7
+444,Research & Development,No,80,7
+445,Sales,Yes,80,3
+446,Sales,No,80,10
+447,Research & Development,No,80,5
+448,Research & Development,No,80,10
+449,Sales,Yes,80,1
+450,Research & Development,No,80,20
+451,Research & Development,No,80,7
+452,Research & Development,No,80,8
+453,Sales,Yes,80,1
+454,Research & Development,Yes,80,8
+455,Research & Development,No,80,9
+456,Sales,No,80,5
+458,Sales,No,80,8
+460,Research & Development,No,80,5
+461,Research & Development,Yes,80,15
+462,Research & Development,Yes,80,7
+463,Sales,Yes,80,10
+464,Research & Development,No,80,5
+465,Research & Development,No,80,26
+466,Research & Development,Yes,80,6
+467,Sales,No,80,4
+468,Research & Development,No,80,23
+469,Sales,No,80,2
+470,Human Resources,Yes,80,2
+471,Research & Development,No,80,2
+473,Sales,No,80,29
+474,Research & Development,Yes,80,6
+475,Sales,Yes,80,25
+476,Sales,No,80,1
+477,Research & Development,No,80,2
+478,Sales,Yes,80,1
+479,Sales,No,80,1
+481,Sales,No,80,3
+482,Research & Development,No,80,1
+483,Research & Development,Yes,80,10
+484,Sales,No,80,9
+485,Sales,Yes,80,5
+486,Research & Development,No,80,10
+487,Research & Development,No,80,7
+488,Sales,No,80,4
+491,Research & Development,No,80,10
+492,Sales,Yes,80,22
+493,Research & Development,Yes,80,9
+494,Sales,No,80,12
+495,Research & Development,No,80,23
+496,Research & Development,No,80,9
+497,Research & Development,No,80,1
+498,Sales,No,80,9
+499,Research & Development,No,80,7
+500,Sales,No,80,14
+501,Research & Development,No,80,2
+502,Sales,Yes,80,19
+505,Research & Development,Yes,80,2
+507,Sales,Yes,80,10
+508,Sales,No,80,2
+510,Research & Development,No,80,3
+511,Research & Development,No,80,11
+513,Sales,No,80,2
+514,Research & Development,Yes,80,4
+515,Research & Development,No,80,14
+516,Sales,No,80,2
+517,Research & Development,No,80,1
+518,Research & Development,Yes,80,10
+520,Research & Development,No,80,12
+521,Research & Development,No,80,2
+522,Research & Development,No,80,5
+523,Sales,No,80,4
+524,Research & Development,No,80,7
+525,Research & Development,No,80,21
+526,Research & Development,Yes,80,8
+527,Sales,Yes,80,4
+529,Research & Development,Yes,80,25
+530,Research & Development,No,80,1
+531,Research & Development,Yes,80,1
+532,Sales,No,80,6
+533,Sales,No,80,12
+534,Sales,No,80,1
+536,Research & Development,No,80,17
+538,Research & Development,No,80,3
+543,Research & Development,Yes,80,3
+544,Research & Development,No,80,10
+546,Research & Development,No,80,4
+547,Research & Development,No,80,29
+548,Research & Development,No,80,2
+549,Research & Development,No,80,7
+550,Research & Development,No,80,18
+551,Research & Development,No,80,28
+554,Sales,Yes,80,1
+555,Sales,No,80,6
+556,Research & Development,Yes,80,2
+558,Sales,No,80,2
+560,Research & Development,No,80,23
+562,Research & Development,No,80,3
+564,Research & Development,No,80,3
+565,Research & Development,No,80,25
+566,Human Resources,No,80,2
+567,Sales,No,80,22
+568,Sales,No,80,29
+569,Research & Development,No,80,29
+571,Research & Development,No,80,2
+573,Sales,No,80,28
+574,Research & Development,No,80,2
+575,Research & Development,No,80,2
+577,Research & Development,No,80,22
+578,Research & Development,No,80,8
+579,Research & Development,No,80,2
+580,Sales,Yes,80,10
+581,Research & Development,No,80,9
+582,Research & Development,Yes,80,15
+584,Research & Development,No,80,10
+585,Sales,No,80,7
+586,Research & Development,Yes,80,16
+587,Research & Development,No,80,20
+590,Human Resources,Yes,80,23
+591,Research & Development,No,80,5
+592,Sales,No,80,10
+593,Research & Development,No,80,4
+595,Sales,No,80,2
+597,Sales,No,80,18
+599,Sales,No,80,10
+600,Sales,No,80,1
+601,Research & Development,No,80,6
+602,Research & Development,No,80,8
+604,Sales,Yes,80,2
+605,Research & Development,Yes,80,24
+606,Sales,No,80,2
+608,Human Resources,Yes,80,17
+611,Research & Development,No,80,19
+612,Research & Development,No,80,1
+613,Sales,No,80,7
+614,Sales,Yes,80,5
+615,Sales,No,80,28
+616,Research & Development,Yes,80,2
+618,Sales,No,80,29
+620,Sales,No,80,1
+621,Sales,No,80,21
+622,Research & Development,Yes,80,24
+623,Research & Development,No,80,1
+624,Research & Development,No,80,18
+625,Sales,No,80,2
+626,Sales,No,80,9
+630,Research & Development,Yes,80,6
+631,Sales,No,80,11
+632,Sales,No,80,24
+634,Research & Development,No,80,10
+635,Research & Development,No,80,1
+638,Research & Development,Yes,80,18
+639,Research & Development,Yes,80,23
+641,Sales,No,80,28
+643,Research & Development,No,80,17
+644,Human Resources,No,80,3
+645,Sales,No,80,13
+647,Research & Development,Yes,80,7
+648,Sales,No,80,12
+649,Research & Development,Yes,80,1
+650,Sales,No,80,13
+652,Research & Development,No,80,25
+653,Sales,No,80,6
+655,Research & Development,No,80,6
+656,Sales,Yes,80,2
+657,Research & Development,No,80,1
+659,Research & Development,No,80,2
+661,Research & Development,Yes,80,6
+662,Research & Development,No,80,1
+663,Research & Development,Yes,80,9
+664,Research & Development,No,80,1
+665,Human Resources,No,80,1
+666,Sales,Yes,80,14
+667,Sales,No,80,2
+669,Sales,No,80,22
+671,Research & Development,Yes,80,3
+675,Research & Development,No,80,6
+677,Sales,No,80,8
+679,Research & Development,Yes,80,9
+680,Research & Development,No,80,3
+682,Sales,No,80,1
+683,Research & Development,No,80,1
+684,Sales,No,80,26
+686,Research & Development,Yes,80,6
+689,Research & Development,No,80,3
+690,Sales,No,80,3
+691,Research & Development,No,80,6
+692,Research & Development,No,80,6
+698,Human Resources,No,80,19
+699,Research & Development,Yes,80,9
+700,Research & Development,No,80,3
+701,Research & Development,Yes,80,10
+702,Research & Development,Yes,80,3
+704,Research & Development,No,80,3
+705,Research & Development,No,80,4
+707,Sales,No,80,8
+709,Sales,No,80,7
+710,Research & Development,No,80,1
+712,Sales,No,80,2
+714,Sales,Yes,80,3
+715,Research & Development,No,80,10
+716,Research & Development,Yes,80,28
+717,Research & Development,No,80,9
+720,Sales,No,80,3
+721,Research & Development,No,80,2
+722,Sales,No,80,10
+723,Sales,Yes,80,8
+724,Research & Development,No,80,1
+725,Research & Development,No,80,1
+727,Research & Development,No,80,3
+728,Sales,No,80,14
+729,Sales,Yes,80,5
+730,Research & Development,No,80,7
+731,Human Resources,No,80,10
+732,Sales,No,80,16
+733,Research & Development,No,80,10
+734,Human Resources,No,80,1
+738,Sales,No,80,8
+741,Research & Development,Yes,80,1
+742,Research & Development,No,80,8
+743,Research & Development,Yes,80,1
+744,Research & Development,No,80,24
+746,Sales,Yes,80,3
+747,Sales,No,80,27
+749,Sales,No,80,10
+752,Research & Development,Yes,80,19
+754,Sales,No,80,15
+757,Research & Development,No,80,8
+758,Research & Development,No,80,9
+760,Human Resources,No,80,3
+762,Research & Development,No,80,9
+763,Research & Development,Yes,80,2
+764,Research & Development,No,80,7
+766,Sales,No,80,10
+769,Research & Development,No,80,6
+771,Research & Development,No,80,2
+772,Research & Development,No,80,24
+773,Research & Development,Yes,80,2
+775,Research & Development,No,80,8
+776,Sales,No,80,3
+780,Research & Development,Yes,80,1
+781,Sales,No,80,26
+783,Sales,No,80,2
+784,Research & Development,No,80,10
+785,Sales,Yes,80,27
+786,Sales,No,80,2
+787,Research & Development,Yes,80,2
+789,Sales,No,80,8
+791,Research & Development,No,80,19
+792,Research & Development,No,80,1
+793,Research & Development,No,80,27
+796,Sales,No,80,8
+797,Research & Development,No,80,1
+799,Research & Development,Yes,80,19
+800,Sales,No,80,8
+802,Research & Development,Yes,80,10
+803,Research & Development,Yes,80,2
+804,Research & Development,No,80,2
+805,Sales,No,80,8
+806,Research & Development,No,80,1
+807,Research & Development,No,80,2
+808,Sales,No,80,8
+809,Research & Development,No,80,8
+811,Research & Development,Yes,80,6
+812,Research & Development,No,80,9
+813,Research & Development,No,80,11
+815,Research & Development,No,80,2
+816,Research & Development,Yes,80,1
+817,Research & Development,No,80,7
+819,Sales,No,80,16
+820,Research & Development,Yes,80,2
+823,Research & Development,No,80,1
+824,Research & Development,No,80,23
+825,Research & Development,Yes,80,2
+826,Research & Development,No,80,1
+827,Research & Development,Yes,80,1
+828,Research & Development,No,80,2
+829,Human Resources,No,80,13
+830,Research & Development,No,80,4
+832,Research & Development,No,80,16
+833,Research & Development,Yes,80,2
+834,Research & Development,No,80,2
+836,Research & Development,No,80,29
+837,Research & Development,No,80,12
+838,Research & Development,No,80,16
+840,Sales,No,80,11
+842,Sales,No,80,2
+843,Research & Development,No,80,14
+844,Research & Development,Yes,80,5
+845,Research & Development,No,80,7
+846,Sales,Yes,80,2
+847,Human Resources,No,80,3
+848,Research & Development,Yes,80,5
+850,Research & Development,No,80,3
+851,Sales,No,80,26
+852,Research & Development,No,80,4
+854,Research & Development,No,80,2
+855,Sales,No,80,1
+856,Research & Development,No,80,27
+857,Sales,Yes,80,1
+859,Sales,No,80,13
+861,Research & Development,No,80,5
+862,Sales,Yes,80,7
+864,Sales,Yes,80,9
+865,Research & Development,No,80,8
+867,Research & Development,No,80,25
+868,Sales,No,80,16
+869,Human Resources,No,80,8
+872,Research & Development,No,80,1
+874,Research & Development,Yes,80,8
+875,Research & Development,Yes,80,2
+878,Human Resources,No,80,8
+879,Sales,Yes,80,3
+880,Research & Development,Yes,80,9
+881,Research & Development,Yes,80,25
+882,Research & Development,No,80,1
+885,Sales,No,80,4
+887,Research & Development,No,80,1
+888,Research & Development,No,80,4
+889,Sales,No,80,5
+893,Sales,No,80,9
+894,Research & Development,Yes,80,3
+895,Research & Development,Yes,80,11
+896,Sales,Yes,80,1
+897,Sales,No,80,8
+899,Research & Development,No,80,25
+900,Sales,No,80,21
+901,Research & Development,No,80,23
+902,Research & Development,No,80,1
+903,Sales,Yes,80,2
+904,Sales,Yes,80,19
+905,Research & Development,No,80,2
+909,Human Resources,No,80,2
+910,Human Resources,Yes,80,3
+911,Research & Development,Yes,80,25
+912,Research & Development,No,80,7
+913,Research & Development,Yes,80,9
+916,Sales,No,80,5
+918,Research & Development,Yes,80,2
+920,Research & Development,No,80,8
+922,Sales,No,80,2
+923,Research & Development,No,80,18
+924,Research & Development,Yes,80,14
+925,Sales,Yes,80,2
+926,Research & Development,Yes,80,3
+927,Research & Development,Yes,80,2
+930,Research & Development,No,80,9
+932,Research & Development,Yes,80,6
+933,Research & Development,No,80,4
+934,Research & Development,No,80,10
+936,Sales,No,80,14
+939,Research & Development,Yes,80,1
+940,Research & Development,Yes,80,5
+941,Sales,No,80,7
+942,Research & Development,Yes,80,21
+944,Research & Development,No,80,8
+945,Research & Development,No,80,20
+947,Sales,No,80,20
+949,Research & Development,No,80,7
+950,Research & Development,No,80,1
+951,Research & Development,No,80,1
+952,Sales,Yes,80,19
+954,Sales,No,80,10
+956,Sales,No,80,1
+957,Research & Development,Yes,80,6
+958,Research & Development,No,80,2
+959,Sales,Yes,80,21
+960,Research & Development,No,80,4
+961,Research & Development,Yes,80,12
+964,Research & Development,Yes,80,9
+966,Research & Development,No,80,3
+967,Sales,Yes,80,3
+969,Research & Development,No,80,1
+970,Sales,No,80,1
+972,Research & Development,No,80,4
+974,Sales,No,80,20
+975,Sales,No,80,18
+976,Research & Development,No,80,1
+977,Research & Development,No,80,2
+981,Sales,No,80,2
+982,Sales,No,80,8
+983,Sales,Yes,80,10
+984,Sales,No,80,3
+985,Sales,No,80,2
+986,Sales,Yes,80,24
+987,Research & Development,Yes,80,16
+990,Sales,No,80,8
+991,Research & Development,Yes,80,9
+992,Sales,No,80,17
+994,Research & Development,Yes,80,10
+995,Research & Development,No,80,13
+996,Research & Development,No,80,1
+997,Research & Development,No,80,1
+998,Research & Development,Yes,80,1
+999,Research & Development,No,80,9
+1001,Research & Development,No,80,16
+1002,Research & Development,Yes,80,23
+1003,Sales,Yes,80,4
+1004,Research & Development,Yes,80,22
+1005,Research & Development,Yes,80,24
+1006,Research & Development,No,80,10
+1007,Research & Development,No,80,7
+1009,Research & Development,No,80,17
+1010,Research & Development,Yes,80,14
+1011,Research & Development,No,80,1
+1012,Research & Development,No,80,5
+1013,Research & Development,No,80,17
+1014,Research & Development,Yes,80,25
+1015,Research & Development,Yes,80,8
+1016,Research & Development,Yes,80,11
+1017,Research & Development,No,80,5
+1018,Research & Development,No,80,2
+1019,Research & Development,No,80,8
+1022,Research & Development,No,80,6
+1024,Research & Development,No,80,4
+1025,Research & Development,No,80,7
+1026,Research & Development,No,80,1
+1027,Research & Development,No,80,2
+1028,Research & Development,No,80,10
+1029,Sales,No,80,5
+1030,Research & Development,No,80,9
+1032,Research & Development,Yes,80,2
+1033,Research & Development,No,80,11
+1034,Research & Development,Yes,80,18
+1035,Research & Development,No,80,7
+1036,Sales,Yes,80,3
+1037,Sales,No,80,29
+1038,Sales,No,80,2
+1039,Sales,Yes,80,28
+1040,Sales,No,80,1
+1042,Research & Development,No,80,16
+1043,Research & Development,Yes,80,22
+1044,Sales,No,80,8
+1045,Sales,No,80,11
+1046,Research & Development,No,80,29
+1047,Sales,No,80,1
+1048,Sales,Yes,80,1
+1049,Human Resources,No,80,24
+1050,Sales,No,80,2
+1052,Research & Development,No,80,15
+1053,Research & Development,Yes,80,2
+1055,Sales,Yes,80,10
+1056,Sales,No,80,10
+1060,Research & Development,No,80,3
+1061,Research & Development,Yes,80,2
+1062,Research & Development,No,80,3
+1066,Sales,No,80,26
+1068,Research & Development,No,80,1
+1069,Research & Development,No,80,1
+1070,Sales,No,80,2
+1071,Research & Development,No,80,9
+1073,Research & Development,No,80,12
+1074,Research & Development,No,80,2
+1076,Sales,No,80,25
+1077,Sales,Yes,80,9
+1079,Research & Development,No,80,10
+1080,Research & Development,Yes,80,8
+1081,Research & Development,Yes,80,4
+1082,Research & Development,No,80,24
+1083,Research & Development,No,80,1
+1084,Research & Development,No,80,20
+1085,Research & Development,No,80,7
+1088,Research & Development,No,80,17
+1092,Research & Development,No,80,20
+1094,Research & Development,No,80,8
+1096,Research & Development,No,80,2
+1097,Research & Development,No,80,10
+1098,Human Resources,No,80,1
+1099,Research & Development,No,80,5
+1100,Sales,Yes,80,4
+1101,Research & Development,No,80,29
+1102,Research & Development,No,80,15
+1103,Research & Development,No,80,3
+1105,Sales,Yes,80,10
+1106,Research & Development,Yes,80,4
+1107,Research & Development,No,80,21
+1108,Research & Development,Yes,80,25
+1109,Research & Development,No,80,2
+1111,Research & Development,No,80,1
+1113,Sales,Yes,80,1
+1114,Sales,No,80,7
+1115,Research & Development,No,80,3
+1116,Research & Development,No,80,1
+1117,Sales,No,80,9
+1118,Research & Development,No,80,7
+1119,Sales,Yes,80,10
+1120,Research & Development,No,80,28
+1121,Research & Development,No,80,3
+1124,Sales,No,80,3
+1125,Sales,No,80,2
+1126,Research & Development,No,80,27
+1127,Research & Development,No,80,2
+1128,Research & Development,No,80,14
+1131,Research & Development,Yes,80,1
+1132,Research & Development,No,80,9
+1133,Research & Development,No,80,18
+1135,Sales,No,80,20
+1136,Research & Development,No,80,2
+1137,Sales,No,80,11
+1138,Sales,No,80,8
+1140,Research & Development,No,80,2
+1143,Research & Development,No,80,10
+1148,Research & Development,No,80,29
+1150,Research & Development,Yes,80,8
+1152,Human Resources,No,80,1
+1154,Research & Development,Yes,80,6
+1156,Research & Development,No,80,8
+1157,Sales,Yes,80,9
+1158,Research & Development,Yes,80,12
+1160,Research & Development,No,80,15
+1161,Research & Development,No,80,25
+1162,Research & Development,No,80,6
+1163,Sales,No,80,9
+1164,Human Resources,No,80,8
+1165,Sales,No,80,23
+1166,Research & Development,No,80,9
+1167,Sales,Yes,80,12
+1171,Sales,No,80,4
+1172,Research & Development,No,80,1
+1173,Research & Development,No,80,24
+1175,Research & Development,Yes,80,12
+1177,Research & Development,No,80,3
+1179,Sales,No,80,10
+1180,Research & Development,Yes,80,26
+1182,Research & Development,No,80,2
+1184,Research & Development,No,80,1
+1185,Research & Development,No,80,4
+1188,Sales,No,80,9
+1190,Sales,No,80,2
+1191,Research & Development,No,80,4
+1192,Research & Development,No,80,6
+1193,Research & Development,No,80,9
+1195,Research & Development,Yes,80,7
+1196,Research & Development,No,80,1
+1198,Research & Development,No,80,3
+1200,Research & Development,Yes,80,10
+1201,Research & Development,No,80,7
+1202,Research & Development,Yes,80,15
+1203,Research & Development,Yes,80,3
+1204,Sales,No,80,2
+1206,Research & Development,No,80,17
+1207,Human Resources,No,80,2
+1210,Research & Development,No,80,5
+1211,Sales,No,80,29
+1212,Sales,No,80,2
+1215,Research & Development,No,80,2
+1216,Research & Development,No,80,19
+1217,Research & Development,No,80,15
+1218,Sales,Yes,80,17
+1219,Research & Development,No,80,17
+1220,Sales,No,80,25
+1221,Research & Development,No,80,6
+1224,Research & Development,No,80,7
+1225,Research & Development,No,80,29
+1226,Sales,No,80,21
+1228,Research & Development,No,80,2
+1231,Human Resources,No,80,2
+1233,Sales,Yes,80,7
+1234,Research & Development,No,80,13
+1235,Research & Development,Yes,80,2
+1237,Research & Development,Yes,80,1
+1238,Research & Development,No,80,9
+1239,Sales,No,80,10
+1240,Sales,No,80,10
+1241,Research & Development,Yes,80,1
+1242,Research & Development,Yes,80,26
+1243,Sales,Yes,80,8
+1244,Research & Development,Yes,80,14
+1245,Research & Development,No,80,1
+1246,Research & Development,No,80,2
+1248,Research & Development,Yes,80,10
+1249,Research & Development,No,80,1
+1250,Research & Development,No,80,3
+1251,Research & Development,Yes,80,11
+1252,Research & Development,No,80,24
+1254,Sales,No,80,3
+1255,Research & Development,No,80,3
+1256,Research & Development,No,80,4
+1257,Research & Development,No,80,3
+1258,Research & Development,No,80,2
+1259,Research & Development,No,80,4
+1260,Research & Development,Yes,80,7
+1263,Research & Development,No,80,1
+1264,Research & Development,No,80,1
+1265,Research & Development,No,80,20
+1267,Sales,No,80,5
+1268,Sales,Yes,80,10
+1269,Research & Development,Yes,80,25
+1270,Research & Development,No,80,1
+1273,Sales,Yes,80,24
+1275,Research & Development,Yes,80,4
+1277,Sales,Yes,80,2
+1278,Research & Development,Yes,80,8
+1279,Research & Development,No,80,10
+1280,Sales,No,80,4
+1281,Sales,Yes,80,2
+1282,Sales,Yes,80,9
+1283,Research & Development,No,80,18
+1285,Research & Development,No,80,19
+1286,Research & Development,Yes,80,1
+1288,Research & Development,No,80,4
+1289,Human Resources,No,80,11
+1291,Research & Development,Yes,80,6
+1292,Research & Development,Yes,80,7
+1293,Sales,No,80,4
+1294,Research & Development,Yes,80,2
+1295,Research & Development,No,80,15
+1296,Research & Development,Yes,80,2
+1297,Research & Development,No,80,6
+1298,Research & Development,Yes,80,9
+1299,Research & Development,Yes,80,7
+1301,Research & Development,No,80,1
+1303,Research & Development,No,80,1
+1304,Sales,No,80,8
+1306,Research & Development,No,80,25
+1307,Research & Development,Yes,80,13
+1308,Research & Development,No,80,23
+1309,Research & Development,No,80,7
+1310,Research & Development,No,80,23
+1311,Research & Development,No,80,6
+1312,Research & Development,No,80,10
+1314,Human Resources,No,80,1
+1315,Research & Development,No,80,1
+1317,Research & Development,Yes,80,28
+1318,Sales,Yes,80,25
+1319,Sales,Yes,80,5
+1321,Research & Development,Yes,80,17
+1322,Research & Development,No,80,18
+1324,Sales,Yes,80,2
+1329,Sales,No,80,10
+1331,Sales,Yes,80,1
+1333,Research & Development,No,80,3
+1334,Research & Development,Yes,80,2
+1336,Research & Development,No,80,2
+1338,Human Resources,No,80,8
+1340,Research & Development,No,80,16
+1344,Research & Development,No,80,9
+1346,Research & Development,No,80,2
+1349,Sales,No,80,1
+1350,Research & Development,Yes,80,4
+1352,Human Resources,Yes,80,5
+1355,Sales,No,80,2
+1356,Sales,No,80,15
+1358,Research & Development,No,80,19
+1360,Research & Development,Yes,80,7
+1361,Research & Development,No,80,1
+1362,Sales,No,80,7
+1363,Research & Development,No,80,4
+1364,Sales,No,80,11
+1367,Research & Development,No,80,11
+1368,Research & Development,No,80,1
+1369,Research & Development,No,80,1
+1371,Sales,No,80,2
+1372,Sales,Yes,80,13
+1373,Research & Development,Yes,80,23
+1374,Research & Development,No,80,26
+1375,Research & Development,No,80,2
+1377,Research & Development,No,80,29
+1379,Sales,No,80,2
+1380,Sales,Yes,80,18
+1382,Research & Development,No,80,7
+1383,Research & Development,No,80,2
+1387,Sales,No,80,26
+1389,Research & Development,Yes,80,22
+1390,Sales,Yes,80,21
+1391,Sales,No,80,2
+1392,Research & Development,Yes,80,22
+1394,Research & Development,Yes,80,4
+1395,Sales,No,80,5
+1396,Sales,Yes,80,2
+1397,Research & Development,No,80,25
+1399,Sales,No,80,18
+1401,Research & Development,Yes,80,28
+1402,Research & Development,Yes,80,6
+1403,Sales,Yes,80,10
+1405,Research & Development,Yes,80,17
+1407,Research & Development,No,80,2
+1408,Human Resources,No,80,10
+1409,Research & Development,No,80,8
+1411,Research & Development,No,80,11
+1412,Research & Development,No,80,18
+1415,Research & Development,No,80,1
+1417,Research & Development,No,80,7
+1419,Human Resources,No,80,17
+1420,Research & Development,No,80,28
+1421,Research & Development,Yes,80,14
+1422,Research & Development,No,80,1
+1423,Research & Development,Yes,80,1
+1424,Research & Development,No,80,1
+1425,Sales,Yes,80,3
+1427,Sales,No,80,1
+1428,Sales,No,80,7
+1430,Research & Development,No,80,8
+1431,Research & Development,No,80,1
+1433,Research & Development,No,80,8
+1434,Research & Development,No,80,11
+1435,Research & Development,No,80,4
+1436,Sales,No,80,16
+1438,Research & Development,No,80,1
+1439,Sales,No,80,9
+1440,Research & Development,No,80,5
+1441,Research & Development,No,80,1
+1443,Research & Development,No,80,2
+1445,Sales,Yes,80,4
+1446,Sales,No,80,7
+1447,Research & Development,No,80,1
+1448,Research & Development,Yes,80,5
+1449,Research & Development,No,80,9
+1453,Sales,No,80,8
+1457,Sales,No,80,9
+1458,Research & Development,Yes,80,2
+1459,Research & Development,No,80,1
+1460,Research & Development,Yes,80,20
+1461,Human Resources,No,80,8
+1464,Research & Development,Yes,80,2
+1465,Research & Development,Yes,80,29
+1466,Sales,No,80,7
+1467,Human Resources,No,80,9
+1468,Research & Development,No,80,8
+1469,Sales,No,80,5
+1471,Research & Development,No,80,5
+1472,Research & Development,No,80,2
+1473,Research & Development,No,80,5
+1474,Research & Development,No,80,2
+1475,Research & Development,No,80,20
+1477,Sales,No,80,7
+1478,Sales,No,80,3
+1479,Sales,No,80,16
+1480,Research & Development,No,80,9
+1481,Sales,No,80,1
+1482,Research & Development,No,80,7
+1483,Research & Development,No,80,1
+1484,Research & Development,No,80,7
+1485,Research & Development,No,80,15
+1486,Sales,No,80,1
+1487,Sales,No,80,13
+1489,Sales,Yes,80,24
+1492,Sales,No,80,7
+1494,Research & Development,Yes,80,9
+1495,Sales,No,80,13
+1496,Research & Development,Yes,80,2
+1497,Sales,No,80,19
+1499,Human Resources,No,80,1
+1501,Research & Development,Yes,80,4
+1502,Research & Development,No,80,4
+1503,Sales,Yes,80,14
+1504,Research & Development,No,80,2
+1506,Research & Development,No,80,1
+1507,Sales,No,80,7
+1509,Research & Development,No,80,3
+1513,Research & Development,No,80,2
+1514,Research & Development,No,80,29
+1515,Research & Development,Yes,80,8
+1516,Research & Development,No,80,10
+1520,Research & Development,No,80,11
+1522,Research & Development,No,80,1
+1523,Research & Development,No,80,28
+1525,Research & Development,No,80,6
+1527,Sales,No,80,3
+1529,Research & Development,No,80,16
+1533,Research & Development,No,80,20
+1534,Research & Development,No,80,9
+1535,Sales,Yes,80,1
+1537,Research & Development,No,80,3
+1539,Research & Development,Yes,80,22
+1541,Sales,Yes,80,7
+1542,Research & Development,No,80,2
+1543,Research & Development,No,80,13
+1544,Research & Development,No,80,8
+1545,Research & Development,No,80,25
+1546,Research & Development,No,80,28
+1547,Research & Development,Yes,80,2
+1548,Sales,No,80,9
+1549,Research & Development,Yes,80,28
+1550,Human Resources,Yes,80,6
+1551,Research & Development,No,80,21
+1552,Research & Development,Yes,80,8
+1553,Research & Development,No,80,1
+1554,Sales,No,80,28
+1555,Research & Development,No,80,5
+1556,Sales,Yes,80,2
+1557,Sales,No,80,16
+1558,Research & Development,No,80,9
+1560,Sales,No,80,8
+1562,Sales,No,80,1
+1563,Human Resources,No,80,10
+1564,Research & Development,No,80,1
+1568,Sales,No,80,29
+1569,Research & Development,Yes,80,2
+1572,Research & Development,No,80,2
+1573,Research & Development,No,80,2
+1574,Research & Development,No,80,1
+1576,Research & Development,No,80,15
+1577,Research & Development,No,80,7
+1578,Sales,No,80,26
+1580,Research & Development,No,80,1
+1581,Research & Development,No,80,3
+1582,Sales,No,80,14
+1583,Sales,No,80,16
+1585,Sales,No,80,1
+1586,Research & Development,Yes,80,3
+1587,Research & Development,Yes,80,10
+1588,Sales,No,80,6
+1590,Research & Development,No,80,2
+1591,Sales,Yes,80,9
+1592,Research & Development,No,80,10
+1594,Research & Development,Yes,80,6
+1595,Research & Development,No,80,9
+1596,Research & Development,No,80,28
+1597,Research & Development,No,80,10
+1598,Sales,No,80,14
+1599,Research & Development,No,80,27
+1601,Research & Development,No,80,7
+1602,Sales,No,80,1
+1604,Research & Development,Yes,80,24
+1605,Research & Development,Yes,80,26
+1606,Research & Development,Yes,80,20
+1607,Research & Development,No,80,5
+1608,Research & Development,Yes,80,7
+1609,Research & Development,No,80,7
+1611,Research & Development,Yes,80,5
+1612,Sales,No,80,26
+1613,Sales,No,80,2
+1614,Research & Development,Yes,80,12
+1615,Research & Development,No,80,10
+1617,Research & Development,No,80,25
+1618,Research & Development,No,80,10
+1619,Research & Development,No,80,19
+1621,Research & Development,No,80,18
+1622,Research & Development,No,80,27
+1623,Research & Development,No,80,5
+1624,Sales,Yes,80,3
+1625,Human Resources,No,80,26
+1627,Research & Development,No,80,3
+1628,Research & Development,No,80,15
+1630,Research & Development,No,80,8
+1631,Research & Development,No,80,19
+1633,Research & Development,No,80,4
+1635,Research & Development,No,80,2
+1638,Research & Development,Yes,80,2
+1639,Sales,No,80,10
+1640,Research & Development,No,80,10
+1641,Research & Development,Yes,80,16
+1642,Human Resources,Yes,80,1
+1644,Research & Development,No,80,4
+1645,Sales,Yes,80,15
+1646,Research & Development,Yes,80,2
+1647,Research & Development,No,80,8
+1648,Research & Development,No,80,2
+1649,Research & Development,Yes,80,7
+1650,Sales,No,80,10
+1651,Research & Development,No,80,5
+1653,Research & Development,No,80,2
+1654,Research & Development,No,80,12
+1655,Research & Development,No,80,22
+1656,Research & Development,No,80,17
+1657,Sales,No,80,2
+1658,Research & Development,No,80,3
+1659,Research & Development,No,80,7
+1661,Research & Development,Yes,80,6
+1662,Research & Development,No,80,1
+1664,Research & Development,No,80,3
+1665,Research & Development,No,80,22
+1666,Research & Development,No,80,15
+1667,Sales,Yes,80,12
+1668,Research & Development,No,80,1
+1669,Sales,Yes,80,5
+1670,Sales,No,80,2
+1671,Research & Development,No,80,2
+1673,Sales,No,80,5
+1674,Research & Development,Yes,80,16
+1675,Research & Development,No,80,2
+1676,Sales,No,80,2
+1677,Research & Development,No,80,1
+1678,Sales,Yes,80,23
+1680,Sales,No,80,9
+1681,Sales,Yes,80,16
+1682,Research & Development,No,80,26
+1683,Human Resources,Yes,80,1
+1684,Research & Development,Yes,80,8
+1687,Research & Development,No,80,4
+1689,Research & Development,No,80,24
+1691,Sales,Yes,80,7
+1692,Research & Development,No,80,2
+1693,Research & Development,No,80,7
+1694,Research & Development,No,80,22
+1696,Research & Development,No,80,5
+1697,Research & Development,No,80,1
+1698,Research & Development,No,80,21
+1700,Sales,No,80,1
+1701,Research & Development,No,80,19
+1702,Sales,Yes,80,7
+1703,Research & Development,Yes,80,2
+1704,Research & Development,Yes,80,2
+1706,Sales,Yes,80,2
+1707,Research & Development,No,80,9
+1708,Sales,No,80,6
+1709,Research & Development,No,80,9
+1710,Sales,No,80,2
+1712,Research & Development,No,80,1
+1714,Human Resources,No,80,22
+1716,Sales,No,80,9
+1718,Research & Development,No,80,17
+1719,Research & Development,No,80,28
+1720,Research & Development,No,80,10
+1721,Research & Development,No,80,2
+1722,Human Resources,No,80,4
+1724,Research & Development,Yes,80,8
+1725,Research & Development,No,80,29
+1727,Research & Development,No,80,13
+1728,Research & Development,No,80,27
+1729,Research & Development,No,80,16
+1731,Sales,No,80,2
+1732,Sales,Yes,80,2
+1733,Sales,Yes,80,13
+1734,Sales,No,80,1
+1735,Research & Development,No,80,4
+1736,Research & Development,No,80,24
+1737,Research & Development,Yes,80,1
+1739,Sales,No,80,19
+1740,Sales,No,80,7
+1744,Human Resources,No,80,4
+1745,Research & Development,No,80,2
+1746,Human Resources,No,80,10
+1747,Human Resources,No,80,8
+1749,Sales,No,80,5
+1751,Research & Development,No,80,8
+1752,Sales,No,80,9
+1753,Research & Development,Yes,80,1
+1754,Sales,No,80,15
+1755,Research & Development,Yes,80,2
+1756,Sales,No,80,2
+1757,Sales,No,80,11
+1758,Sales,Yes,80,16
+1760,Research & Development,No,80,2
+1761,Sales,No,80,16
+1762,Research & Development,No,80,4
+1763,Research & Development,No,80,16
+1764,Research & Development,No,80,5
+1766,Research & Development,Yes,80,18
+1767,Research & Development,Yes,80,17
+1768,Research & Development,No,80,12
+1770,Research & Development,No,80,2
+1771,Research & Development,No,80,4
+1772,Research & Development,No,80,9
+1774,Sales,Yes,80,10
+1775,Research & Development,Yes,80,1
+1778,Human Resources,No,80,2
+1779,Sales,No,80,3
+1780,Sales,No,80,7
+1782,Research & Development,No,80,6
+1783,Research & Development,Yes,80,8
+1784,Sales,No,80,29
+1786,Research & Development,No,80,3
+1787,Sales,No,80,9
+1789,Research & Development,Yes,80,2
+1790,Research & Development,Yes,80,10
+1792,Research & Development,Yes,80,1
+1794,Human Resources,No,80,8
+1797,Sales,Yes,80,27
+1798,Research & Development,No,80,8
+1799,Research & Development,No,80,1
+1800,Research & Development,No,80,10
+1801,Sales,No,80,26
+1802,Research & Development,No,80,2
+1803,Research & Development,No,80,13
+1804,Research & Development,No,80,2
+1805,Human Resources,No,80,2
+1807,Research & Development,No,80,9
+1809,Research & Development,No,80,10
+1812,Sales,No,80,20
+1813,Research & Development,No,80,9
+1814,Research & Development,No,80,5
+1815,Sales,Yes,80,4
+1816,Research & Development,No,80,10
+1818,Human Resources,Yes,80,20
+1821,Research & Development,No,80,21
+1822,Research & Development,No,80,1
+1823,Sales,No,80,8
+1824,Sales,No,80,2
+1826,Research & Development,No,80,23
+1827,Research & Development,Yes,80,4
+1829,Research & Development,No,80,12
+1830,Research & Development,No,80,7
+1833,Sales,No,80,7
+1834,Research & Development,No,80,1
+1835,Sales,Yes,80,2
+1836,Sales,No,80,10
+1837,Research & Development,Yes,80,15
+1839,Research & Development,No,80,14
+1842,Human Resources,No,80,18
+1844,Human Resources,Yes,80,13
+1845,Sales,No,80,2
+1847,Research & Development,Yes,80,2
+1849,Sales,No,80,2
+1850,Research & Development,Yes,80,5
+1852,Research & Development,No,80,20
+1853,Sales,No,80,10
+1854,Research & Development,No,80,10
+1856,Research & Development,No,80,9
+1857,Research & Development,No,80,2
+1858,Human Resources,No,80,1
+1859,Research & Development,No,80,29
+1860,Research & Development,No,80,8
+1862,Sales,Yes,80,2
+1863,Sales,No,80,3
+1864,Sales,No,80,23
+1865,Human Resources,No,80,6
+1866,Research & Development,No,80,6
+1867,Research & Development,No,80,10
+1868,Research & Development,Yes,80,24
+1869,Sales,No,80,10
+1870,Research & Development,No,80,15
+1871,Research & Development,No,80,19
+1873,Research & Development,No,80,2
+1875,Sales,No,80,3
+1876,Sales,No,80,9
+1878,Research & Development,Yes,80,7
+1880,Sales,Yes,80,10
+1881,Research & Development,No,80,20
+1882,Sales,Yes,80,4
+1883,Research & Development,No,80,7
+1885,Research & Development,Yes,80,7
+1886,Research & Development,Yes,80,16
+1888,Research & Development,No,80,25
+1890,Human Resources,No,80,2
+1892,Research & Development,No,80,1
+1893,Research & Development,Yes,80,1
+1898,Sales,No,80,2
+1900,Research & Development,No,80,22
+1903,Research & Development,No,80,1
+1905,Research & Development,Yes,80,16
+1907,Research & Development,No,80,24
+1908,Sales,No,80,17
+1909,Sales,No,80,8
+1911,Research & Development,No,80,6
+1912,Sales,Yes,80,10
+1915,Sales,Yes,80,3
+1916,Research & Development,No,80,4
+1918,Research & Development,No,80,6
+1922,Research & Development,No,80,1
+1924,Sales,No,80,10
+1927,Sales,Yes,80,1
+1928,Sales,No,80,24
+1929,Sales,No,80,21
+1931,Research & Development,No,80,2
+1932,Research & Development,Yes,80,22
+1933,Sales,Yes,80,13
+1934,Research & Development,No,80,14
+1935,Sales,No,80,11
+1936,Research & Development,No,80,9
+1937,Research & Development,Yes,80,8
+1938,Sales,Yes,80,21
+1939,Research & Development,Yes,80,5
+1940,Research & Development,No,80,9
+1941,Research & Development,No,80,2
+1943,Sales,Yes,80,12
+1944,Human Resources,No,80,22
+1945,Sales,No,80,18
+1947,Research & Development,No,80,16
+1948,Research & Development,Yes,80,3
+1949,Research & Development,No,80,9
+1950,Sales,No,80,1
+1951,Sales,No,80,13
+1952,Research & Development,No,80,1
+1954,Research & Development,No,80,1
+1955,Research & Development,No,80,15
+1956,Research & Development,No,80,1
+1960,Research & Development,No,80,17
+1961,Sales,No,80,1
+1962,Sales,Yes,80,7
+1965,Sales,No,80,9
+1966,Research & Development,No,80,5
+1967,Sales,Yes,80,26
+1968,Sales,Yes,80,24
+1969,Research & Development,No,80,9
+1970,Research & Development,No,80,7
+1971,Research & Development,No,80,11
+1972,Human Resources,Yes,80,1
+1973,Human Resources,Yes,80,26
+1974,Research & Development,Yes,80,2
+1975,Sales,No,80,15
+1976,Research & Development,No,80,23
+1979,Research & Development,No,80,10
+1980,Research & Development,Yes,80,10
+1981,Research & Development,No,80,1
+1982,Research & Development,No,80,12
+1985,Research & Development,No,80,11
+1986,Sales,No,80,2
+1987,Human Resources,No,80,2
+1989,Research & Development,No,80,1
+1992,Research & Development,Yes,80,2
+1993,Research & Development,No,80,25
+1994,Research & Development,No,80,1
+1995,Sales,No,80,1
+1996,Sales,No,80,2
+1997,Research & Development,No,80,6
+1998,Research & Development,Yes,80,18
+1999,Research & Development,No,80,1
+2000,Research & Development,No,80,1
+2003,Research & Development,Yes,80,11
+2007,Research & Development,No,80,1
+2008,Research & Development,No,80,9
+2009,Research & Development,Yes,80,15
+2010,Research & Development,No,80,29
+2012,Research & Development,No,80,1
+2013,Sales,No,80,1
+2014,Research & Development,No,80,24
+2015,Research & Development,No,80,10
+2016,Sales,No,80,1
+2017,Research & Development,Yes,80,10
+2018,Sales,Yes,80,8
+2019,Sales,No,80,29
+2020,Research & Development,Yes,80,1
+2021,Sales,Yes,80,5
+2022,Research & Development,No,80,9
+2023,Sales,No,80,9
+2024,Sales,No,80,3
+2025,Research & Development,No,80,4
+2026,Research & Development,No,80,1
+2027,Research & Development,Yes,80,1
+2031,Research & Development,No,80,2
+2032,Research & Development,No,80,7
+2034,Research & Development,No,80,28
+2035,Sales,No,80,28
+2036,Sales,No,80,15
+2037,Sales,No,80,3
+2038,Research & Development,No,80,2
+2040,Human Resources,Yes,80,26
+2041,Sales,No,80,10
+2044,Sales,No,80,1
+2045,Sales,No,80,11
+2046,Sales,No,80,20
+2048,Research & Development,No,80,2
+2049,Research & Development,Yes,80,18
+2051,Research & Development,No,80,2
+2052,Research & Development,No,80,1
+2053,Research & Development,Yes,80,13
+2054,Research & Development,No,80,28
+2055,Sales,Yes,80,28
+2056,Sales,No,80,24
+2057,Research & Development,No,80,5
+2060,Sales,No,80,5
+2061,Research & Development,No,80,23
+2062,Research & Development,No,80,6
+2064,Research & Development,Yes,80,4
+2065,Sales,No,80,2
+2068,Research & Development,No,80,8
